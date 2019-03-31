@@ -1,6 +1,7 @@
 #include <SDL2/SDL.h>
 int main()
-{ 
+{
+	// for test 
 	SDL_Window* window =0; 
 	SDL_Renderer* render=0; 
 	SDL_Init(SDL_INIT_EVERYTHING); 
